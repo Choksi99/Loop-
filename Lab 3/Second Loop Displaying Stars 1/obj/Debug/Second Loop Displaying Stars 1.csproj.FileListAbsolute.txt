@@ -1,0 +1,14 @@
+B:\Second Loop Displaying Stars 1\bin\Debug\Second Loop Displaying Stars 1.exe.config
+B:\Second Loop Displaying Stars 1\bin\Debug\Second Loop Displaying Stars 1.exe
+B:\Second Loop Displaying Stars 1\bin\Debug\Second Loop Displaying Stars 1.pdb
+B:\Second Loop Displaying Stars 1\obj\Debug\Second Loop Displaying Stars 1.csprojAssemblyReference.cache
+B:\Second Loop Displaying Stars 1\obj\Debug\Second Loop Displaying Stars 1.csproj.CoreCompileInputs.cache
+B:\Second Loop Displaying Stars 1\obj\Debug\Second Loop Displaying Stars 1.exe
+B:\Second Loop Displaying Stars 1\obj\Debug\Second Loop Displaying Stars 1.pdb
+B:\College\Program\extra work\Lab 3\Second Loop Displaying Stars 1\bin\Debug\Second Loop Displaying Stars 1.exe.config
+B:\College\Program\extra work\Lab 3\Second Loop Displaying Stars 1\bin\Debug\Second Loop Displaying Stars 1.exe
+B:\College\Program\extra work\Lab 3\Second Loop Displaying Stars 1\bin\Debug\Second Loop Displaying Stars 1.pdb
+B:\College\Program\extra work\Lab 3\Second Loop Displaying Stars 1\obj\Debug\Second Loop Displaying Stars 1.csprojAssemblyReference.cache
+B:\College\Program\extra work\Lab 3\Second Loop Displaying Stars 1\obj\Debug\Second Loop Displaying Stars 1.csproj.CoreCompileInputs.cache
+B:\College\Program\extra work\Lab 3\Second Loop Displaying Stars 1\obj\Debug\Second Loop Displaying Stars 1.exe
+B:\College\Program\extra work\Lab 3\Second Loop Displaying Stars 1\obj\Debug\Second Loop Displaying Stars 1.pdb

@@ -1,0 +1,33 @@
+B:\For Loop\obj\Debug\netcoreapp2.0\For Loop.csprojAssemblyReference.cache
+B:\For Loop\obj\Debug\netcoreapp2.0\For Loop.csproj.CoreCompileInputs.cache
+B:\For Loop\obj\Debug\netcoreapp2.0\For Loop.AssemblyInfoInputs.cache
+B:\For Loop\obj\Debug\netcoreapp2.0\For Loop.AssemblyInfo.cs
+B:\For Loop\bin\Debug\netcoreapp2.0\For Loop.deps.json
+B:\For Loop\bin\Debug\netcoreapp2.0\For Loop.runtimeconfig.json
+B:\For Loop\bin\Debug\netcoreapp2.0\For Loop.runtimeconfig.dev.json
+B:\For Loop\bin\Debug\netcoreapp2.0\For Loop.dll
+B:\For Loop\bin\Debug\netcoreapp2.0\For Loop.pdb
+B:\For Loop\obj\Debug\netcoreapp2.0\For Loop.dll
+B:\For Loop\obj\Debug\netcoreapp2.0\For Loop.pdb
+B:\Program\LAB WORK\Lab 3\For Loop\bin\Debug\netcoreapp2.0\For Loop.deps.json
+B:\Program\LAB WORK\Lab 3\For Loop\bin\Debug\netcoreapp2.0\For Loop.runtimeconfig.json
+B:\Program\LAB WORK\Lab 3\For Loop\bin\Debug\netcoreapp2.0\For Loop.runtimeconfig.dev.json
+B:\Program\LAB WORK\Lab 3\For Loop\bin\Debug\netcoreapp2.0\For Loop.dll
+B:\Program\LAB WORK\Lab 3\For Loop\bin\Debug\netcoreapp2.0\For Loop.pdb
+B:\Program\LAB WORK\Lab 3\For Loop\obj\Debug\netcoreapp2.0\For Loop.csprojAssemblyReference.cache
+B:\Program\LAB WORK\Lab 3\For Loop\obj\Debug\netcoreapp2.0\For Loop.csproj.CoreCompileInputs.cache
+B:\Program\LAB WORK\Lab 3\For Loop\obj\Debug\netcoreapp2.0\For Loop.AssemblyInfoInputs.cache
+B:\Program\LAB WORK\Lab 3\For Loop\obj\Debug\netcoreapp2.0\For Loop.AssemblyInfo.cs
+B:\Program\LAB WORK\Lab 3\For Loop\obj\Debug\netcoreapp2.0\For Loop.dll
+B:\Program\LAB WORK\Lab 3\For Loop\obj\Debug\netcoreapp2.0\For Loop.pdb
+B:\College\Program\extra work\Lab 3\For Loop\obj\Debug\netcoreapp2.0\For Loop.dll
+B:\College\Program\extra work\Lab 3\For Loop\obj\Debug\netcoreapp2.0\For Loop.pdb
+B:\College\Program\extra work\Lab 3\For Loop\bin\Debug\netcoreapp2.0\For Loop.deps.json
+B:\College\Program\extra work\Lab 3\For Loop\bin\Debug\netcoreapp2.0\For Loop.runtimeconfig.json
+B:\College\Program\extra work\Lab 3\For Loop\bin\Debug\netcoreapp2.0\For Loop.runtimeconfig.dev.json
+B:\College\Program\extra work\Lab 3\For Loop\bin\Debug\netcoreapp2.0\For Loop.dll
+B:\College\Program\extra work\Lab 3\For Loop\bin\Debug\netcoreapp2.0\For Loop.pdb
+B:\College\Program\extra work\Lab 3\For Loop\obj\Debug\netcoreapp2.0\For Loop.csprojAssemblyReference.cache
+B:\College\Program\extra work\Lab 3\For Loop\obj\Debug\netcoreapp2.0\For Loop.csproj.CoreCompileInputs.cache
+B:\College\Program\extra work\Lab 3\For Loop\obj\Debug\netcoreapp2.0\For Loop.AssemblyInfoInputs.cache
+B:\College\Program\extra work\Lab 3\For Loop\obj\Debug\netcoreapp2.0\For Loop.AssemblyInfo.cs
